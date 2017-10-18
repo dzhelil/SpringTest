@@ -37,9 +37,9 @@
      <version>3.0.1</version>
 	  </dependency>
 	  <dependency>
-		  <groupId>com.axway.documentation.visualmapper</groupId>
-		  <artifactId>visualmapper-en</artifactId>
-		  <version>1.0.0-snapshot</version>
+		  <groupId>com.axway.sentinel.common</groupId>
+		  <artifactId>sentinel-common-core</artifactId>
+		  <version>3.0.9-1-SNAPSHOT</version>
 	  </dependency>
     <dependency>
 		<groupId>org.springframework</groupId>
