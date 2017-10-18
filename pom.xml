@@ -38,8 +38,8 @@
 	  </dependency>
 	  <dependency>
 		  <groupId>com.axway.sentinel.common</groupId>
-		  <artifactId>sentinel-common-core</artifactId>
-		  <version>3.0.9-1-SNAPSHOT</version>
+		  <artifactId>sentinel-common-webserver</artifactId>
+		  <version>3.3.0-SNAPSHOT</version>
 	  </dependency>
     <dependency>
 		<groupId>org.springframework</groupId>
